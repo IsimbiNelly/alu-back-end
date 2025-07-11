@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/python3
 """
 Module to fetch user information and export TODO list to a JSON file
@@ -88,4 +87,3 @@ if __name__ == '__main__':
     jsonobj[userId] = tasks
     with open("{}.json".format(userId), 'w') as jsonfile:
         json.dump(jsonobj, jsonfile)
->>>>>>> 2e0e743a0dd2aefc721d02f9ae7d2583cdc33a6b
