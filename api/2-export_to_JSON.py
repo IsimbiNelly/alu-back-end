@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Module to fetch user information and export TODO list to a JSON file
