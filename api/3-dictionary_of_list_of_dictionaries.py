@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/python3
 """
 Python script that exports data in the JSON format
@@ -79,4 +78,3 @@ if __name__ == "__main__":
 
     with open('todo_all_employees.json', mode='w') as f:
         json.dump(todoAll, f)
->>>>>>> 2e0e743a0dd2aefc721d02f9ae7d2583cdc33a6b
